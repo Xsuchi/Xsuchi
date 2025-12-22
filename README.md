@@ -1,19 +1,17 @@
-# 👋 Hi, I'm Suchith | Aspiring DevOps & Cloud Engineer
+# 👋 Hi, I'm Suchith | Cloud & DevOps Engineer
 
-I am building a strong foundation in DevOps through **hands-on, scenario-based projects** across AWS, CI/CD, Containers, Kubernetes, Infrastructure as Code, and Monitoring.
+I build production-style DevOps and Cloud projects with a focus on
+automation, security, and scalability.
 
-My goal is to solve real-world problems—not just run sample labs.
+My work is scenario-driven and mirrors real-world infrastructure
+challenges rather than sample labs.
 
 ---
 
 ## 🔧 Current Skills & Tools I Am Working With
 
 ### 🟦 Cloud & DevOps  
-- AWS (IAM, S3, EC2, VPC, CloudWatch)  
-- Git & GitHub  
-- Linux  
-
-👉 *Currently learning:* Docker · Kubernetes · Terraform · Jenkins · Ansible · Grafana
+-AWS | Terraform | CI/CD | Docker | Kubernetes | Linux | Git
 
 ---
 
