@@ -1,59 +1,60 @@
 # 👋 Hi, I'm Suchith | Cloud & DevOps Engineer
 
-I build production-style DevOps and Cloud projects with a focus on
-automation, security, and scalability.
+I build **production-style Cloud & DevOps projects** with a strong focus on:
+- Infrastructure as Code
+- Automation
+- Security
+- High availability
 
-My work is scenario-driven and mirrors real-world infrastructure
-challenges rather than sample labs.
-
----
-
-## 🔧 Current Skills & Tools I Am Working With
-
-### 🟦 Cloud & DevOps  
--AWS | Terraform | CI/CD | Docker | Kubernetes | Linux | Git
+My projects are **scenario-driven** and mirror **real-world enterprise problems**, not basic labs.
 
 ---
 
-## 📘 Completed Projects
+## 🧰 Tech Stack
 
-### **1️⃣ AWS IAM – Real Scenario-Based Access Management**
-Covers practical identity, permission, and security cases such as:
-- User/Group/Policy design  
-- MFA enforcement  
-- Password policy audit  
-- Credential report analysis  
-- Access Advisor for unused permissions  
-- CLI access setup  
-- CloudShell usage  
-
-🔗 GitHub: *(add your IAM repo link)*
+**Cloud & DevOps**
+- AWS (IAM, EC2, VPC, S3, ALB, ASG, CloudWatch)
+- Terraform (IaC, state management, workspaces, modules)
+- CI/CD (Jenkins, GitHub Actions)
+- Containers (Docker, Kubernetes)
+- Linux, Git
 
 ---
 
-## 🛠️ Upcoming Projects (In Progress)
+## 🚀 Featured Projects
 
-These projects will be added as I complete them:
+### 🔹 Terraform – Real-World Scenarios
+> Production-style AWS infrastructure automation using Terraform
 
-- Dockerized applications  
-- Jenkins CI/CD pipelines  
-- Docker → Kubernetes deployment  
-- Terraform AWS infrastructure  
-- Monitoring with Prometheus & Grafana  
-- Full end-to-end DevOps pipeline  
+- Multi-environment infra (dev / qa / prod)
+- IAM security & access control
+- Remote state & Terraform Cloud
+- High availability (ALB + ASG)
+- CI/CD + Terraform automation
 
----
-
-## ⭐ What I’m Focusing On Right Now
-
-✔ Building scenario-based DevOps projects  
-✔ Improving real-world troubleshooting & automation  
-✔ Strengthening AWS fundamentals  
-✔ Preparing for DevOps role  
+👉 Repo: https://github.com/Xsuchi/Terraform-Projects
 
 ---
 
-## 📫 Connect with Me
+### 🔹 AWS – Core Cloud Projects
+> Deep hands-on AWS fundamentals & security scenarios
 
-LinkedIn: www.linkedin.com/in/suchith-s-a96208253 
+- IAM (MFA, policies, audits, access advisor)
+- VPC (public/private subnets, NAT, routing)
+- EC2 & storage
+- Networking & security
 
+👉 Repo: https://github.com/Xsuchi/AWS
+
+---
+
+## 📈 Currently Working On
+- Advanced Terraform + CI/CD deployments
+- ECS & EKS based architectures
+- Monitoring with Prometheus & Grafana
+- Production-grade DevOps pipelines
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/suchith-s-a96208253
